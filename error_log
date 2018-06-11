@@ -1,0 +1,1 @@
+[29-May-2018 09:34:42 UTC] PHP Fatal error:  Cannot re-assign $this in /home/iitmindia/public_html/spheretravelmedia/application/controllers/Welcome.php on line 32
